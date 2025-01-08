@@ -28,12 +28,12 @@
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "levanter_830abf702a9cf48bdbfbc5f79e50afe1e"
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "❤️,LyFE"
+      "value": "POWER_BROKER⭐"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
